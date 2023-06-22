@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StepTracker</string>
+    <string name="friends">George</string>
+    <string name="progressBarValue">50</string>
+    <string name="todayGoalSetterString">Set today\'s goal steps!</string>
+    <string name="stepsLabel">Steps</string>
+    <string name="friendsLabel">Friends</string>
+    <string name="leaderboardLabel">Leaderboard</string>
+    <string name="steps">2023 steps</string>
+    <string name="stepify"><i><b>Stepify</b></i></string>
+    <string name="settingsDescription">SettingsIcon</string>
+</resources>
